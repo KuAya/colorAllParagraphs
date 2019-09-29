@@ -4,7 +4,7 @@ Color all your paragraphs with uniform color.
 
 # Installation
 
-`npm i colorAllParagraphs --save`
+`npm i color_all_paragraphs --save`
 
 Then...
 
