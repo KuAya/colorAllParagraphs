@@ -9,7 +9,7 @@ Color all your paragraphs with uniform color.
 Then...
 
 ```
-import { colorAllParagraphs } from 'colorAllParagraphs';
+import { colorAllParagraphs } from 'color_all_paragraphs';
 
 colorAllParagraphs('green');
 

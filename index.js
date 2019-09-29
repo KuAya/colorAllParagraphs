@@ -1,5 +1,5 @@
 function colorAllParagraphs(color){
-    let paragraphs = document.querySelectorAll('.colorParagraph');
+    let paragraphs = document.querySelectorAll('p');
     paragraphs.forEach(paragraph => {
         paragraph.style.color= color;
     });
